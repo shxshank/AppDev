@@ -1,0 +1,6 @@
+<resources>
+
+<string name="hello">Hello World, MyActivity!</string>
+<string name="app_name">ActivitiesKotlin</string>
+
+</resources>
